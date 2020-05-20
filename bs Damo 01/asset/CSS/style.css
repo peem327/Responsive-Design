@@ -1,0 +1,52 @@
+.top-bar {background-color: black;
+}
+
+.Hero-section{
+    background-image: url("../images/bg-hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10rem 0;
+}
+
+.Features-section {
+    padding: 3.5rem 0;
+}
+
+.Overview-section {
+    background-image: url("../images/bg-overview.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    padding: 8rem 0;
+}
+
+.News-section{
+    padding: 3.5rem 0;
+}
+
+.Premium-section{
+    background-image: url("../images/bg-premium.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    padding: 8rem 0;
+}
+
+.Newslatter-section {
+    background-image: url("../images/bg-newslatter.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    padding: 8rem 0;
+}
+
+.Footer-section{
+    background-color: #111111 ;
+    color: #ffffff;
+    padding: 3.5rem 0;
+
+}
